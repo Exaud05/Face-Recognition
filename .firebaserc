@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "facial-recognition-ab49f": {
+      "hosting": {
+        "facial_recognition": [
+          "facial-recognition-ab49f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "facial-recognition-ab49f"
+  }
+}
